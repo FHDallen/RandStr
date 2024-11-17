@@ -15,7 +15,7 @@ with open("key.txt", "r") as pipeline:
 if len(randStr) == X:
       return randStr
 ```
-## Team Rules:
+## Communication Contract:
 A. For which teammate did you implement “Microservice A”? <br>
 Ryan F.
 
