@@ -1,5 +1,5 @@
 # randStr
-### Request Data by writing a positive integer X to the file key.txt
+### Request Data by writing a positive integer to the file key.txt
 ```
 with open("key.txt", "w") as pipeline:
       pipeline.write(str(X)) # Where X is a positive integer
