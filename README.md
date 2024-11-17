@@ -23,5 +23,5 @@ if len(randStr) == X:
 - First, try to resolve arguments/disagreements individually. If a resolution cannot be found, bring it to the rest of the group to help resolve.
 
 ## UML Sequence Diagram
-![Basic UML Sequence Diagram for requesting data and the returned data.](https://cdn.discordapp.com/attachments/312909213900734464/1307814297271009420/image.png?ex=673bac7a&is=673a5afa&hm=8d8a2bf2c0a0a5f80ff19cc54bd88b7106afe47feff80aa2f5a036df068d0ebd&)
+![Basic UML Sequence Diagram for requesting data and the returned data.](https://cdn.discordapp.com/attachments/312909213900734464/1307836054455451712/image.png?ex=673bc0bd&is=673a6f3d&hm=137b1247bbd2b0e5e624dbbcb8a57ce91990b2c40699020ba652f93e97f84ae8&)
 
