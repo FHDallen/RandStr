@@ -12,7 +12,7 @@ with open("key.txt", "r") as pipeline:
 ```
 ### Verifying Data Example
 ```
-if len(rand_str) == X:
+if len(randStr) == X:
       return randStr
 ```
 ## Team Rules:
